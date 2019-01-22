@@ -9,4 +9,8 @@ public class Test01 {
 	void m() {
 		
 	}
+	
+	void m2() {
+		
+	}
 }
